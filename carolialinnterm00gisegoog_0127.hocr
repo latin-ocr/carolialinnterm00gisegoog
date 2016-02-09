@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolialinnterm00gisegoog_0127.png"; bbox 0 0 2897 4619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 20 8 58 379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 20 8 58 379">
+     <span class='ocr_line' id='line_1_1' title="bbox 20 8 58 379; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 20 288 29 379; x_wconf 44' lang='lat' dir='ltr'>*fi</span> <span class='ocrx_word' id='word_1_2' title='bbox 20 242 23 243; x_wconf 45' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 20 8 58 221; x_wconf 58' lang='grc' dir='ltr'>ἻἻ-Ἷε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 686 1176 2140 1395">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 686 1176 2140 1395">
+     <span class='ocr_line' id='line_1_2' title="bbox 686 1176 2140 1395; baseline -0.002 -5"><span class='ocrx_word' id='word_1_4' title='bbox 686 1176 2140 1395; x_wconf 87' lang='lat' dir='ltr'>CHARACTERES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 20 1353 2636 1713">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 20 1353 2636 1713">
+     <span class='ocr_line' id='line_1_3' title="bbox 20 1353 2636 1713; baseline 0.001 -8.201"><span class='ocrx_word' id='word_1_5' title='bbox 20 1353 2636 1713; x_wconf 79' lang='lat' dir='ltr'>GENERUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 292 1781 2596 2550">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 292 1781 2510 2498">
+     <span class='ocr_line' id='line_1_4' title="bbox 792 1781 2050 1905; baseline 0.003 -4.201"><span class='ocrx_word' id='word_1_6' title='bbox 792 1781 1938 1905; x_wconf 65' lang='lat' dir='ltr'>..COMPENDIOSI</span> <span class='ocrx_word' id='word_1_7' title='bbox 2039 1818 2050 1837; x_wconf 91' lang='lat'><em>&#39;</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1285 1999 1424 2067; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1285 1999 1293 2007; x_wconf 74' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1372 2006 1424 2067; x_wconf 87' lang='lat' dir='ltr'><strong>E</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 292 2048 2596 2360; baseline -0.002 -78"><span class='ocrx_word' id='word_1_10' title='bbox 292 2048 1346 2360; x_wconf 69' lang='lat' dir='ltr'>SYSTEMATE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1443 2167 2596 2305; x_wconf 78' lang='lat' dir='ltr'>VEGETA&#39;BILI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1018 2348 1940 2550; baseline 0 -52"><span class='ocrx_word' id='word_1_12' title='bbox 1018 2348 1786 2550; x_wconf 68' lang='lat' dir='ltr'>LINNAEI.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1935 2415 1940 2422; x_wconf 39' lang='lat'>⁴</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
